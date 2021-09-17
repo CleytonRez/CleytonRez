@@ -20,6 +20,7 @@
 
   <img height="150em" align="right" alt="samuraiJack" src="https://steamuserimages-a.akamaihd.net/ugc/951840009307516529/C0CCD53E53D72C09C2B1116C39DE0A0EA081C8BD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
   
-    ![Snake animation](https://github.com/CleytonRez/CleytonRez/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/CleytonRez/CleytonRez/blob/output/github-contribution-grid-snake.svg)
   
 </div>
