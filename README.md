@@ -1,7 +1,7 @@
 ## Olá, eu sou o Cleyton Rezende!
 
 
-- 🌱 Estudando JavaScript/Front-End
+- 🌱 Estudando JavaScript/Node-JS/React
 - 📫 Contato: cleytonmgrezendedev@gmail.com
 ##
  <div>
