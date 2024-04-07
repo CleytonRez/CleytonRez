@@ -18,7 +18,7 @@
   <a href = "mailto:cleytonmgrezendedev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cleyton-rezende-354149181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <img height="150em" align="right" alt="samuraiJack" src="[https://steamuserimages-a.akamaihd.net/ugc/951840009307516529/C0CCD53E53D72C09C2B1116C39DE0A0EA081C8BD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://i.pinimg.com/originals/41/b1/1d/41b11dfd6b74eaf9b171c6bb7e306797.gif)">
+  <img height="150em" align="right" alt="lofi" src="[[https://steamuserimages-a.akamaihd.net/ugc/951840009307516529/C0CCD53E53D72C09C2B1116C39DE0A0EA081C8BD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://i.pinimg.com/originals/41/b1/1d/41b11dfd6b74eaf9b171c6bb7e306797.gif)](https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif)">
   
   
   ![Snake animation](https://github.com/CleytonRez/CleytonRez/blob/output/github-contribution-grid-snake.svg)
