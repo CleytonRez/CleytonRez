@@ -1,7 +1,7 @@
 ## Olá, eu sou o Cleyton Rezende!
 
 
-- 🌱 Estudando Python -   (•◡•) /
+- 🌱 Estudando QA -   (•◡•) /
 - 📫 Contato: cleytonmgrezendedev@gmail.com
 ##
  <div>
